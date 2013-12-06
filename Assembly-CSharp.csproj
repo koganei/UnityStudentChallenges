@@ -72,6 +72,7 @@
      <Compile Include="Assets\Done\DoneScripts\UnappliedScripts\guiTextSet.cs" />
      <Compile Include="Assets\Scripts\AlarmLight.cs" />
      <Compile Include="Assets\Scripts\ApplyForceOnKey.cs" />
+     <Compile Include="Assets\Scripts\SceneFadeInOut.cs" />
      <Compile Include="Assets\Scripts\SpaceToStart.cs" />
      <Compile Include="Assets\Scripts\Tags.cs" />
      <Compile Include="Assets\Scripts\dieOnCollision.cs" />
