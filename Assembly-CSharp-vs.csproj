@@ -73,6 +73,7 @@
      <Compile Include="Assets\Done\DoneScripts\UnappliedScripts\guiTextSet.cs" />
      <Compile Include="Assets\Scripts\ApplyForceOnKey.cs" />
      <Compile Include="Assets\Scripts\SpaceToStart.cs" />
+     <Compile Include="Assets\Scripts\Tags.cs" />
      <Compile Include="Assets\Scripts\dieOnCollision.cs" />
      <Compile Include="Assets\Scripts\killOnCollision.cs" />
      <Compile Include="Assets\Scripts\rotateHorizontal.cs" />
