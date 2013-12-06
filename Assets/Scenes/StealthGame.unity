@@ -33309,7 +33309,7 @@ MonoBehaviour:
   highIntensity: 2
   lowIntensity: .5
   changeMargin: .200000003
-  alarmOn: 0
+  alarmOn: 1
 --- !u!1 &910328874
 GameObject:
   m_ObjectHideFlags: 0
