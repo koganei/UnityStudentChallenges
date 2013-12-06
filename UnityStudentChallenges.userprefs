@@ -1,13 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scoreCounter.cs">
     <Files>
+      <File FileName="Assets\Scripts\rotateHorizontal.cs" Line="45" Column="40" />
       <File FileName="Assets\Scripts\dieOnCollision.cs" Line="8" Column="21" />
       <File FileName="Assets\Scripts\ApplyForceOnKey.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\rotateHorizontal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rotateHorizontal.cs" Line="45" Column="40" />
       <File FileName="Assets\Scripts\shootBullets.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\scoreCounter.cs" Line="17" Column="35" />
-      <File FileName="Assets\Scripts\scoreOnHit.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\scoreCounter.cs" Line="6" Column="15" />
+      <File FileName="Assets\Scripts\scoreOnHit.cs" Line="8" Column="7" />
       <File FileName="Assets\Scripts\SpaceToStart.cs" Line="14" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
